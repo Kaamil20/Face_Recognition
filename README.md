@@ -1,1 +1,1 @@
-# Face_Recognition
+This repository will store face_recognition project.
